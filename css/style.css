@@ -1,0 +1,85 @@
+html, body{
+	width: 100%;
+	height: 100%; 
+}
+
+.title-wow{
+	font-size: 30px;
+	text-align: center;
+	
+
+}
+
+.black-box{
+	padding: 2%;
+	margin: 1% auto;
+	width: 80%;
+	height: 93%;
+	background-color: #171D1E;
+	border: 2px solid
+}
+
+
+
+.blue-box{
+	width: 100%;
+	height: 26.2%;
+	background-color: #013266;
+	border: 4px solid;
+}
+
+.logo-al{
+	width: 13.8%;
+	padding: 1%;
+}
+
+.logo-al{
+	margin-left: 5%;
+}
+
+.bfa{
+	width: 40%;
+	height: 40%;
+	border: 2px solid
+}
+
+.bfa2{
+	width: 40%;
+	height: 40%;
+	float: right;
+	border: 2px solid
+}
+
+.text{
+	width: 19%;
+	height: 40%;
+	font-size: 23px;
+	color: white;
+	padding: 3px;
+}
+
+.block{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo-ho{
+	width: 13.8%;
+	padding: 1%;
+}
+
+.logo-ho{
+	margin-left: 5%;
+}
+.red-box{
+   width: 100%;
+	height: 26.2%;
+	background-color: #780000;
+	border: 4px solid;
+}
+
+.middle-box{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
